@@ -1,2 +1,2 @@
 # Message
-Troll your friends or send an informational pop up
+send an informational pop up to a remote PC in your domain
